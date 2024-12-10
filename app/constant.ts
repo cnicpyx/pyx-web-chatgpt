@@ -443,8 +443,8 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "anthropic",
-      providerName: "Anthropic",
-      providerType: "anthropic",
+      providerName: "claude",
+      providerType: "claude",
     },
   },
   {
@@ -452,8 +452,8 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "anthropic",
-      providerName: "Anthropic",
-      providerType: "anthropic",
+      providerName: "claude",
+      providerType: "claude",
     },
   },
   {
@@ -461,8 +461,8 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "anthropic",
-      providerName: "Anthropic",
-      providerType: "anthropic",
+      providerName: "claude",
+      providerType: "claude",
     },
   },
   {
@@ -470,8 +470,8 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "anthropic",
-      providerName: "Anthropic",
-      providerType: "anthropic",
+      providerName: "claude",
+      providerType: "claude",
     },
   },
   // {
