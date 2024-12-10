@@ -2,7 +2,7 @@ import { BuiltinMask } from "./typing";
 
 export const CN_MASKS: BuiltinMask[] = [
     {
-        "id": "xrGWxS5muWQWhjre3j1yA",
+        // "id": "xrGWxS5muWQWhjre3j1yA",
         "avatar": "1f920",
         "name": "文生图prompt优化",
         "context": [
@@ -32,7 +32,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733816197344
     },
     {
-        "id": "lZe0Y8j37VJtl_cLVK4SJ",
+        // "id": "lZe0Y8j37VJtl_cLVK4SJ",
         "avatar": "1f916",
         "name": "论文速读",
         "context": [
@@ -62,7 +62,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733816149493
     },
     {
-        "id": "wIOOpLny3ULR_gwpMH-hp",
+        // "id": "wIOOpLny3ULR_gwpMH-hp",
         "avatar": "1f605",
         "name": "帮我写拒稿意见",
         "context": [
@@ -92,7 +92,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733816092719
     },
     {
-        "id": "VnS8rRH1g8pkamo9nSW8R",
+        // "id": "VnS8rRH1g8pkamo9nSW8R",
         "avatar": "1f1e8-1f1f3",
         "name": "中文学术润色",
         "context": [
@@ -122,7 +122,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733814197645
     },
     {
-        "id": "B540SibMopzqgho925OBK",
+        // "id": "B540SibMopzqgho925OBK",
         "avatar": "1f1e8-1f1f3",
         "name": "学术英译中",
         "context": [
@@ -152,7 +152,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733814139841
     },
     {
-        "id": "lqNSWkww4mGMjp3VgsmD_",
+        // "id": "lqNSWkww4mGMjp3VgsmD_",
         "avatar": "1f1ec-1f1e7",
         "name": "学术中译英",
         "context": [
@@ -182,7 +182,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733814105308
     },
     {
-        "id": "MmNnBW8RrrbxP3EB5sItv",
+        // "id": "MmNnBW8RrrbxP3EB5sItv",
         "avatar": "1f1ec-1f1e7",
         "name": "英文语法检查",
         "context": [
@@ -212,7 +212,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733814072463
     },
     {
-        "id": "4qpmOVjoXyC2QObA2AT7x",
+        // "id": "4qpmOVjoXyC2QObA2AT7x",
         "avatar": "1f1ec-1f1e7",
         "name": "英文学术润色-对比",
         "context": [
@@ -242,7 +242,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733813971090
     },
     {
-        "id": "J-FO7cM6nGQqyCK2GPCF6",
+        // "id": "J-FO7cM6nGQqyCK2GPCF6",
         "avatar": "1f1ec-1f1e7",
         "name": "英文学术润色-简练",
         "context": [
@@ -272,7 +272,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733813908929
     },
     {
-        "id": "_ATE02BqE_N-ZkMzhuQnh",
+        // "id": "_ATE02BqE_N-ZkMzhuQnh",
         "avatar": "1f1ec-1f1e7",
         "name": "英文学术润色-连贯",
         "context": [
@@ -302,7 +302,7 @@ export const CN_MASKS: BuiltinMask[] = [
         "createdAt": 1733813716921
     },
     {
-        "id": "2PXo7YTVYCbxdBqOmI_f5",
+        // "id": "2PXo7YTVYCbxdBqOmI_f5",
         "avatar": "1f1ec-1f1e7",
         "name": "英文学术润色",
         "context": [
