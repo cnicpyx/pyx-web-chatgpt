@@ -127,42 +127,42 @@ export const DEFAULT_MODELS = [
       providerType: "openai",
     },
   },
-  {
-    name: "gpt-3.5-turbo-0125",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-3.5-turbo-0301",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-3.5-turbo-0613",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-3.5-turbo-1106",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
+  // {
+  //   name: "gpt-3.5-turbo-0125",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-3.5-turbo-0301",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-3.5-turbo-0613",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-3.5-turbo-1106",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
   {
     name: "gpt-3.5-turbo-16k",
     available: true,
@@ -172,24 +172,24 @@ export const DEFAULT_MODELS = [
       providerType: "openai",
     },
   },
-  {
-    name: "gpt-3.5-turbo-16k-0613",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-3.5-turbo-instruct",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
+  // {
+  //   name: "gpt-3.5-turbo-16k-0613",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-3.5-turbo-instruct",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
   {
     name: "gpt-4",
     available: true,
@@ -199,44 +199,44 @@ export const DEFAULT_MODELS = [
       providerType: "openai",
     },
   },
+  // {
+  //   name: "gpt-4-0125-preview",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-4-0314",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-4-0613",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-4-1106-preview",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
   {
-    name: "gpt-4-0125-preview",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-4-0314",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-4-0613",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-4-1106-preview",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-4-1106-vision-preview",
+    name: "gpt-4-vision-preview",
     available: true,
     provider: {
       id: "openai",
@@ -253,24 +253,24 @@ export const DEFAULT_MODELS = [
       providerType: "openai",
     },
   },
-  {
-    name: "gpt-4-32k-0314",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-4-32k-0613",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
+  // {
+  //   name: "gpt-4-32k-0314",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-4-32k-0613",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
   {
     name: "gpt-4-all",
     available: true,
@@ -325,8 +325,26 @@ export const DEFAULT_MODELS = [
       providerType: "openai",
     },
   },
+  // {
+  //   name: "gpt-4-turbo-2024-04-09",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  // {
+  //   name: "gpt-4-turbo-preview",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
   {
-    name: "gpt-4-turbo-2024-04-09",
+    name: "gpt-4-search",
     available: true,
     provider: {
       id: "openai",
@@ -335,23 +353,6 @@ export const DEFAULT_MODELS = [
     },
   },
   {
-    name: "gpt-4-turbo-preview",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },
-  {
-    name: "gpt-4-vision-preview",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },{
     name: "gpt-4o",
     available: true,
     provider: {
@@ -359,15 +360,17 @@ export const DEFAULT_MODELS = [
       providerName: "OpenAI",
       providerType: "openai",
     },
-  },{
-    name: "gpt-4o-2024-05-13",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },{
+  },
+  // {
+  //   name: "gpt-4o-2024-05-13",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
+  {
     name: "gpt-4o-all",
     available: true,
     provider: {
@@ -383,6 +386,24 @@ export const DEFAULT_MODELS = [
       providerName: "OpenAI",
       providerType: "openai",
     },
+  },
+  {
+    name: "gpt-4o-search",
+    available: true,
+    provider: {
+      id: "openai",
+      providerName: "OpenAI",
+      providerType: "openai",
+    },
+  },
+  {
+    name: "o1",
+    available: true,
+    provider: {
+      id: "openai",
+      providerName: "OpenAI",
+      providerType: "openai",
+    },
   },{
     name: "o1-mini",
     available: true,
@@ -391,15 +412,8 @@ export const DEFAULT_MODELS = [
       providerName: "OpenAI",
       providerType: "openai",
     },
-  },{
-    name: "o1-mini-all",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
-  },{
+  },
+  {
     name: "o1-preview",
     available: true,
     provider: {
@@ -407,15 +421,16 @@ export const DEFAULT_MODELS = [
       providerName: "OpenAI",
       providerType: "openai",
     },
-  },{
-    name: "o1-preview-all",
-    available: true,
-    provider: {
-      id: "openai",
-      providerName: "OpenAI",
-      providerType: "openai",
-    },
   },
+  // {
+  //   name: "o1-preview-all",
+  //   available: true,
+  //   provider: {
+  //     id: "openai",
+  //     providerName: "OpenAI",
+  //     providerType: "openai",
+  //   },
+  // },
 
   // OPENAI DALL-E
   // {
@@ -436,10 +451,37 @@ export const DEFAULT_MODELS = [
       providerType: "openai",
     },
   },
-
+  {
+    name: "midjourney",
+    available: true,
+    provider: {
+      id: "openai",
+      providerName: "OpenAI",
+      providerType: "openai",
+    },
+  },
+  {
+    name: "mj-chat",
+    available: true,
+    provider: {
+      id: "openai",
+      providerName: "OpenAI",
+      providerType: "openai",
+    },
+  },
+  {
+    name: "suno-v3.5",
+    available: true,
+    provider: {
+      id: "openai",
+      providerName: "OpenAI",
+      providerType: "openai",
+    },
+  },
+  
   // Anthropic claude 系列
   {
-    name: "claude-3-5-sonnet-20240620",
+    name: "claude-3-5-sonnet-all",
     available: true,
     provider: {
       id: "anthropic",
@@ -465,15 +507,15 @@ export const DEFAULT_MODELS = [
       providerType: "claude",
     },
   },
-  {
-    name: "claude-3-sonnet-20240229",
-    available: true,
-    provider: {
-      id: "anthropic",
-      providerName: "claude",
-      providerType: "claude",
-    },
-  },
+  // {
+  //   name: "claude-3-sonnet-20240229",
+  //   available: true,
+  //   provider: {
+  //     id: "anthropic",
+  //     providerName: "claude",
+  //     providerType: "claude",
+  //   },
+  // },
   // {
   //   name: "claude-instant-1",
   //   available: true,
@@ -484,25 +526,25 @@ export const DEFAULT_MODELS = [
   //   },
   // },
 
-  // // Google gemini 系列
-  // {
-  //   name: "gemini-pro",
-  //   available: true,
-  //   provider: {
-  //     id: "google",
-  //     providerName: "Google",
-  //     providerType: "google",
-  //   },
-  // },
-  // {
-  //   name: "gemini-pro-vision",
-  //   available: true,
-  //   provider: {
-  //     id: "google",
-  //     providerName: "Google",
-  //     providerType: "google",
-  //   },
-  // },
+  // Google gemini 系列
+  {
+    name: "gemini-pro",
+    available: true,
+    provider: {
+      id: "google",
+      providerName: "Google",
+      providerType: "google",
+    },
+  },
+  {
+    name: "gemini-pro-vision",
+    available: true,
+    provider: {
+      id: "google",
+      providerName: "Google",
+      providerType: "google",
+    },
+  },
 
   // // Meta Llama
   // {
@@ -544,7 +586,7 @@ export const DEFAULT_MODELS = [
   //   },
   // },
   {
-    name: "SparkDesk-v3.1",
+    name: "SparkDesk-v3.5",
     available: true,
     provider: {
       id: "spark",
@@ -552,15 +594,6 @@ export const DEFAULT_MODELS = [
       providerType: "spark",
     },
   },
-  // {
-  //   name: "SparkDesk-v3.5",
-  //   available: true,
-  //   provider: {
-  //     id: "spark",
-  //     providerName: "Spark",
-  //     providerType: "spark",
-  //   },
-  // },
 
 ] as const;
 
